@@ -1,3 +1,24 @@
+## message_generation (jade) - 0.3.0-0
+
+The packages in the `message_generation` repository were released into the `jade` distro by running `/usr/bin/bloom-release -r jade -t jade message_generation` on `Wed, 22 Apr 2015 18:15:48 -0000`
+
+The `message_generation` package was released.
+
+Version of package(s) in repository `message_generation`:
+- upstream repository: https://github.com/ros/message_generation.git
+- release repository: https://github.com/ros-gbp/message_generation-release.git
+- rosdistro version: `0.2.10-0`
+- old version: `0.2.10-1`
+- new version: `0.3.0-0`
+
+Versions of tools used:
+- bloom version: `0.5.19`
+- catkin_pkg version: `0.2.8`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.36`
+
+
 ## message_generation (jade) - 0.2.10-1
 
 The packages in the `message_generation` repository were released into the `jade` distro by running `/usr/bin/bloom-release -r jade -t jade message_generation` on `Wed, 22 Apr 2015 18:13:42 -0000`
