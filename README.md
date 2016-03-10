@@ -1,3 +1,26 @@
+## message_generation (kinetic) - 0.3.0-0
+
+The packages in the `message_generation` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -r kinetic -t kinetic message_generation` on `Thu, 10 Mar 2016 19:35:42 -0000`
+
+The `message_generation` package was released.
+
+Version of package(s) in repository `message_generation`:
+
+- upstream repository: https://github.com/ros/message_generation.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `None-0`
+- new version: `0.3.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.4`
+- vcstools version: `0.1.38`
+
+
 ## message_generation (jade) - 0.3.0-0
 
 The packages in the `message_generation` repository were released into the `jade` distro by running `/usr/bin/bloom-release -r jade -t jade message_generation` on `Wed, 22 Apr 2015 18:15:48 -0000`
