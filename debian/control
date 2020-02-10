@@ -1,0 +1,12 @@
+Source: ros-melodic-message-generation
+Section: misc
+Priority: optional
+Maintainer: Dirk Thomas <dthomas@osrfoundation.org>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin
+Homepage: http://ros.org/wiki/message_generation
+Standards-Version: 3.9.2
+
+Package: ros-melodic-message-generation
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-gencpp, ros-melodic-geneus, ros-melodic-genlisp, ros-melodic-genmsg, ros-melodic-gennodejs, ros-melodic-genpy
+Description: Package modeling the build-time dependencies for generating language bindings of messages.
