@@ -1,3 +1,26 @@
+## message_generation (melodic) - 0.4.1-1
+
+The packages in the `message_generation` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -r melodic -t melodic message_generation` on `Mon, 10 Feb 2020 23:04:10 -0000`
+
+The `message_generation` package was released.
+
+Version of package(s) in repository `message_generation`:
+
+- upstream repository: https://github.com/ros/message_generation.git
+- release repository: https://github.com/ros-gbp/message_generation-release.git
+- rosdistro version: `0.4.0-0`
+- old version: `0.4.0-0`
+- new version: `0.4.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.1`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## message_generation (melodic) - 0.4.0-0
 
 The packages in the `message_generation` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -r melodic -t melodic message_generation` on `Mon, 29 Jan 2018 21:05:20 -0000`
